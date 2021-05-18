@@ -1,0 +1,7 @@
+Welcome to the file handling in python.
+This is a second line.
+Always cose the file, once the work is done.
+
+==========================================================.
+Testing append operation on file.
+Done with append operation.
