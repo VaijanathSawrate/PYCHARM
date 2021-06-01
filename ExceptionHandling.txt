@@ -1,0 +1,4 @@
+Opening the file.
+Enter the number. 
+User entered number is :a
+Closing the file...
